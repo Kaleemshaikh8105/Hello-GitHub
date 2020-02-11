@@ -4,6 +4,9 @@ This is my first experience on git hub.
 2)  pasta
 3)  Chicken fry
 
+Beans
+Pizza
+
 Thank you :)
 
 Done with version control
